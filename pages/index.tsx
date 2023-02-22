@@ -321,7 +321,7 @@ const Home: NextPage = () => {
       </div>
       {/* Powered by thirdweb */}{" "}
       <Image
-        src="/Crown.png"
+        src="/Crown.jpg"
         alt="thirdweb Logo"
         width={135}
         height={22}
